@@ -468,5 +468,4 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.sensorscalibrate@1.0 \
     cnss-daemon \
     vendor.qti.hardware.sensorscalibrate@1.0-service \
-    init.qcom.sensors \
     sensors.qti
