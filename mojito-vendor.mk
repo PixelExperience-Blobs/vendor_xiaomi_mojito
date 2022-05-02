@@ -108,6 +108,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mojito/proprietary/vendor/etc/sensors/config/adux1050_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/adux1050_0.json \
     vendor/xiaomi/mojito/proprietary/vendor/etc/sensors/config/bmi160_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/bmi160_0.json \
     vendor/xiaomi/mojito/proprietary/vendor/etc/sensors/config/lsm6ds3c_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/lsm6ds3c_0.json \
+    vendor/xiaomi/mojito/proprietary/vendor/etc/sensors/config/sdmmagpie_qrd_lsm6dso_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sdmmagpie_qrd_lsm6dso_0.json \
     vendor/xiaomi/mojito/proprietary/vendor/etc/sensors/config/sm7150_ak0991_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sm7150_ak0991_0.json \
     vendor/xiaomi/mojito/proprietary/vendor/etc/sensors/config/sm7150_bmi220_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sm7150_bmi220_0.json \
     vendor/xiaomi/mojito/proprietary/vendor/etc/sensors/config/sm7150_bu27030_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sm7150_bu27030_0.json \
@@ -129,6 +130,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mojito/proprietary/vendor/etc/sensors/config/sns_dae.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_dae.json \
     vendor/xiaomi/mojito/proprietary/vendor/etc/sensors/config/sns_device_orient.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_device_orient.json \
     vendor/xiaomi/mojito/proprietary/vendor/etc/sensors/config/sns_diag_filter.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_diag_filter.json \
+    vendor/xiaomi/mojito/proprietary/vendor/etc/sensors/config/sns_direct_channel.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_direct_channel.json \
     vendor/xiaomi/mojito/proprietary/vendor/etc/sensors/config/sns_distance_bound.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_distance_bound.json \
     vendor/xiaomi/mojito/proprietary/vendor/etc/sensors/config/sns_dpc.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_dpc.json \
     vendor/xiaomi/mojito/proprietary/vendor/etc/sensors/config/sns_facing.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_facing.json \
